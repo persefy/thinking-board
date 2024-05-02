@@ -25,5 +25,6 @@ Virtual whiteboard allows user to add 'sticky notes' to display any major though
 ## Site Layout
 
 ## Trello Board
+[Thinking Board - Trello](https://trello.com/b/JSmalfBi/thinking-board)
 
 ## MVP/Stretch Goals
