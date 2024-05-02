@@ -1,4 +1,4 @@
-# thinking-board
+# Thinking Board
 A full CRUD MERN App for adding 'sticky notes' to a virtual board
 
 ## Table of Contents
